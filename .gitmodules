@@ -1,3 +1,6 @@
 [submodule "typescript-graphql-learning-server"]
 	path = typescript-graphql-learning-server
 	url = git@github.com:yash10019coder/typescript-graphql-learning-server.git
+[submodule "react-graphql-learning-client"]
+	path = react-graphql-learning-client
+	url = git@github.com:yash10019coder/react-graphql-learning-client.git
